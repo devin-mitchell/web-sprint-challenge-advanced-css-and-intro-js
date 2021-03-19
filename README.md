@@ -24,9 +24,13 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
+        acessibility is essentially whether or not the web browser or a user is able to reach every part of your website.  Even with an impairment that the user might have, they should still be able to get to each part of your website.  
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+        Firstly, you should be using semantic HTML.  This gives meaning to all the words and organizing on your website.  Use color combinations that are readable by those that are color blind.  Use alt tags on all of your photos so that visually impaired users can undertand what they are being shown. 
 3. How would you explain the concept of a variable to someone new to programming?
+        A variable is how you assign something.  If i wanted to assign a flower pot a name, i might call it let flowerPot = []; right now flowerPot is just acting as an empty container, theres no flowers in it.  So now we are able to insert something into the flower pot that is functional.  flowerPot = ["cacti", "succulant", "spider plant"].
 4. What is the purpose of using functions in code?
+        functions protect a block of code.  They act as a small program and are reusable.  If we write them well they should be reusable for many different parameters and situations.  
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
@@ -48,8 +52,8 @@ NOTE: Tests will run for the JavaScript portion of this challenge only
 
 *Before you jump in, take 10 minutes to review the code that has already been provided for you. Take time to see how the home page was built. During this time, [Review the provided design files](design/). You have been provided all content necessary in the [index.html file](index.html) and basic styling in the [index.css file](css/index.css).*
 
-* [ ] Add a viewport meta tag to the head of your index.html page.
-* [ ] Add responsive breakpoints to your code for 500px such that your styles match the [mobile design file](design/Mobile.png).
+* [-] Add a viewport meta tag to the head of your index.html page.
+* [-] Add responsive breakpoints to your code for 500px such that your styles match the [mobile design file](design/Mobile.png).
 
 ### Task 2b: Minimum Viable Product - JavaScript
 
